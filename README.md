@@ -1,5 +1,5 @@
 ### 👋
-[![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYebinKim&count_bg=%23FF3B00&title_bg=%23FF8400&icon=swift.svg&icon_color=%23ffffff&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYebinKim&count_bg=%23FF6333&title_bg=%23FF8400&icon=swift.svg&icon_color=%23ffffff&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Notion](http://img.shields.io/badge/-Notion-FF8400?style=round&logo=notion&link=https://www.notion.so/appledeveloper/iOS-Develop-25b95466c2e9478aa68d6468411fa3b2)](https://www.notion.so/appledeveloper/iOS-Develop-25b95466c2e9478aa68d6468411fa3b2)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-FF8400?style=round&logo=Gmail&logoColor=white&link=mailto:silups2@gmail.com)](mailto:silups2@gmail.com)
