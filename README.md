@@ -5,4 +5,5 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-FF8400?style=round&logo=Gmail&logoColor=white&link=mailto:silups2@gmail.com)](mailto:silups2@gmail.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SungPyo&custom_title=Castleticket&nbsp;👀&count_private=true&show_icons=true&bg_color=40,FEFABE,FED2A5&title_color=FF8400&text_color=B08F35)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SungPyo&layout=compact&bg_color=40,FEFABE,FED2A5&title_color=FF8400&text_color=B08F35)](https://github.com/anuraghazra/github-readme-stats)
